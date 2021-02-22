@@ -330,7 +330,7 @@ ol {
 -----------------------*/
 
 .header {
-	background: #0c2b4b;
+	background: #f3bd00;
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -353,7 +353,7 @@ ol {
 	top: 0;
 	width: 580px;
 	height: 100%;
-	background: #f3bd00;
+	background: #0c2b4b;
 	content: "";
 	z-index: -1;
 	-webkit-clip-path: polygon(0% 0%, 100% 0%, 96% 100%, 0% 100%);
